@@ -1,0 +1,106 @@
+/* ERSTE AUFGABE */
+
+.hauptbox {
+    border: 5px solid violet;
+    height: 600px;
+    width: 600px;
+    
+} 
+
+
+
+div {
+    background-color: green;
+    width: 25%;
+    height: 25%;
+} 
+
+#erste-box {
+    margin-left: 75%;
+}
+
+#zweite-box {
+    border: 7px solid grey;
+    margin-left: 50%;
+    margin-left: red;
+    box-sizing: border-box;
+}
+
+#dritte-box {
+    margin-left: 25%;
+}
+
+#vierte-box {
+    border: 7px solid grey;
+    margin-left: 0%;
+    box-sizing: border-box;
+} 
+
+
+
+/* ERSTE AUFGABE END */
+
+
+
+
+
+#box-gelb1 {
+    width: 800px;
+    height: 800px;
+    background-color: white;
+    /* border: 2px solid lightslategray; */
+}
+
+#box1
+{
+    border: 5px solid lightblue;
+    box-sizing: border-box;
+    width: 25%;
+    height: 25%;
+    background-color:gold;
+}
+#box-red1
+{
+    width: 25%;
+    height: 25%;
+    background-color: red;
+    padding-left: 25%;
+}
+#box-gelb2
+{
+    border: 5px solid lightblue;;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background-color:gold;
+}
+#box-red2
+{
+    width: 25%;
+    height: 25%;
+    background-color: red;
+    padding-left: 50%;
+}
+#box-gelb3
+{
+    border: 5px solid lightblue;;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background-color:gold;
+}
+#box-red3
+{
+    width: 25%;
+    height: 25%;
+    background-color: red;
+    padding-left: 75%;
+}
+#box-gelb4
+{
+    border: 5px solid lightblue;;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    background-color:gold;
+}
